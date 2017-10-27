@@ -1,3 +1,11 @@
 site_name: noHTTPS.cz
 
 theme: material
+extra:
+    palette:
+        primary: 'brown'
+        accent: 'deep orange'
+    logo:
+        icon: 'lock'
+
+repo_url: 'https://github.com/vician/nohttps.cz'
