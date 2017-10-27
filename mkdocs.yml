@@ -9,3 +9,7 @@ extra:
         icon: 'lock'
 
 repo_url: 'https://github.com/vician/nohttps.cz'
+
+google_analytics:
+    - 'UA-73656343-8'
+    - 'auto'
